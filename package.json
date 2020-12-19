@@ -35,7 +35,7 @@
     "dependencies": {
         "@actions/core": "^1.2.0",
         "@types/adm-zip": "^0.4.32",
-        "@types/line-reader": "0.0.28",
+        "@types/line-reader": "0.0.30",
         "adm-zip": "^0.4.13",
         "applicationinsights": "^1.6.0",
         "azure-pipelines-task-lib": "^2.9.3",
